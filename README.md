@@ -5,6 +5,7 @@
 ## About Me 🚀
 
 I'm a passionate **[software developer/ frontend developer]** with experience in **[coding]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+first feature
 
 - 🌱 Currently learning: **[software development,fullstack]**
 - 🔭 Working on: **[personal portfolio on git]**
